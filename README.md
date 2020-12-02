@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my blog, web about blades to safety razors in czech, pellet storage app
+- 🌱 I’m currently learning Python (3.4+), Terraform, AWS
+- 📫 How to reach me: contact is in footer of Curriculum Vitae on adpro.cz site
+
+
 <!--
 **adpro/adpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
