@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my blog, web about blades to safety razors in czech, pellet storage app
+  - 🔭 I’m currently working on my [blog](https://blog.adpro.cz) in czech, [web](https://klasickeholeni.cz) about blades to safety razors in czech and [pellet statistics app](https://github.com/adpro/pelletics/)
 - 🌱 I’m currently learning Python (3.4+), Terraform, AWS
 - 📫 How to reach me: contact is in footer of Curriculum Vitae on adpro.cz site
 
