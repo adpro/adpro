@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   - 🔭 I’m currently working on tools for handling information and data about municipiality like [Municipal Budget Indicators](https://github.com/adpro/municipal-budget-indicators-ck) based on data from czech system for municipalities VERA, or convertor from VERA eJednani to EPUB3 format for better handling documents for elected bodies like Board or Council, in free time [web](https://klasickeholeni.cz) about blades to safety razors in czech.
-- 🌱 I’m currently learning Python (3.9+), Terraform and other tools from HashiStack
+- 🌱 I’m coding in Python 3 and learning Go
 - 📫 How to reach me: contact is in footer of Curriculum Vitae on adpro.cz site
 
 
